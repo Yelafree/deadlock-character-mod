@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deadlock 角色 Mod 制作与修复"
+  short_description: "角色贴图与相机挂点修复，VPK 文件替换、删除、批量备份和打包校验"
+  default_prompt: "使用 $deadlock-character-mod 制作或修复这个 Deadlock 角色 mod，核对当前资源并校验输出包。"
